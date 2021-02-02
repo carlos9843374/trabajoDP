@@ -1,0 +1,6 @@
+EXAMEN #3
+Al igual que el proyecto #2, es cuestion de descargar el programa y una vez descargado es abrirlo con Visual Studio.
+Dicho proyecto se hizo con Xamarin con el lenguaje C#
+
+En el repositorio se encuentra la APK
+com.companyname.app3.apk

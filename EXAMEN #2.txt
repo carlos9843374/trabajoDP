@@ -1,0 +1,5 @@
+EXAMEN #2
+
+Solamente es cuestion de descargar el proyecto y una vez descargado es abrir el programa WindowsFormsApp1.sln
+Dicho programa se hizo con Visual Studio 2019 con las extensiones de C# Windows Form.
+
